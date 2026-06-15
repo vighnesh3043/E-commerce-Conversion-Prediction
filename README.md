@@ -1,4 +1,4 @@
-# E-Commerce Conversion Prediction — Summer Analytics 2026 (Mini-Hackathon Week 2)
+# E-Commerce Conversion Prediction
 
 Predicts whether a user converts (`Converted` = 1/0) on an e-commerce platform using 12 anonymized user-level features covering demographics, browsing behavior, traffic source, and campaign data.
 
